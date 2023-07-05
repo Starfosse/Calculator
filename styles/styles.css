@@ -6,6 +6,7 @@
     margin-top: 150px;
     padding : 30px;
     border-radius: 20px;
+    font-size: 24px;
 }
 
 #buttons
@@ -21,7 +22,7 @@
     grid-column: span 2;
 }
 
-#back
+#back, .number
 {
     background-color: white;
 }
@@ -35,6 +36,7 @@ button
 {
     padding:20px;
     border-radius: 20px;
+    font-size: 20px;
 }
 #screen
 {
@@ -46,15 +48,10 @@ button
     padding-right: 20px;
 }
 
-.number
-{
-    opacity: 1;
-    background-color: white;
-}
-
 .operator
 {
     background-color: #e10e74 ;
+    color: white;
 }
 
 body
