@@ -20,11 +20,13 @@
 {
     background-color: white;
     grid-column: span 2;
+    color: black
 }
 
 #back, .number
 {
     background-color: white;
+    color: black
 }
 
 #zero
@@ -37,6 +39,7 @@ button
     padding:20px;
     border-radius: 20px;
     font-size: 20px;
+    border: none;
 }
 #screen
 {
